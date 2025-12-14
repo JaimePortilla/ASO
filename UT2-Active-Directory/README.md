@@ -1,6 +1,6 @@
 # Módulo 2: Gestión de Active Directory en Windows Server
 
-Esta unidad formativa se centra en **Active Directory Domain Services (AD DS)**, la herramienta principal de Microsoft para la administración centralizada de recursos en redes Windows. A través de prácticas hands-on, se aprende a configurar y mantener un entorno de dominio seguro y eficiente.
+Esta unidad formativa se centra en **Active Directory Domain Services (AD DS)**, la herramienta principal de Microsoft para la administración centralizada de recursos en redes Windows. A través de prácticas, se aprende a configurar y mantener un entorno de dominio seguro y eficiente.
 
 ---
 
@@ -21,22 +21,21 @@ Al finalizar esta unidad, serás capaz de:
 
 La carpeta `Modulo2-ActiveDirectory` incluye los siguientes recursos:
 
-### **Laboratorios prácticos**
+### **Tareas Practicas**
 
 Una serie de ejercicios guiados que cubren:
 
 - Promoción de un servidor a controlador de dominio.
 - Diseño de una estructura jerárquica con OU basada en departamentos.
-- Creación masiva de usuarios y asignación a grupos.
+- Usuarios y asignación a grupos.
 - Delegación de tareas administrativas.
-- Configuración de GPO para restricciones de contraseña, scripts de inicio y mapeo de unidades.
-- Simulación de unión de equipos al dominio y verificación de políticas aplicadas.
+- Configuración de GPO para restricciones de contraseña y scripts de inicio.
+- Simulación de unión de equipos al dominio y verificación.
 
 ### **Materiales de apoyo**
 
-- Capturas de pantalla y diagramas de configuraciones clave.
+- Capturas de pantalla.
 - Scripts PowerShell para automatización de tareas comunes.
-- Guías de referencia rápida para herramientas como ADUC, GPMC y PowerShell.
 
 ---
 

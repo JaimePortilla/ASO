@@ -126,7 +126,7 @@ Ruta completa:
 ![alt text](capturas/parte2/creargpo2.png)
 
 ### Tarea Programada
-
+Programamos la tarea del script para que se ejecute automaticamente todos los lunes a las 5 de la mañana
 ![alt text](capturas/parte2/programada.png)
 
 ![alt text](capturas/parte2/programada2.png)

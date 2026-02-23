@@ -63,13 +63,13 @@ Se eliminó el grupo “Todos” en las carpetas restringidas y se aplicaron per
 Se configuraron 3 unidades con **Acción = Crear** y segmentación por grupo:
 
 ![alt text](capturas/parte1/mapeo1.png)
-
+**Unidad Z:** Solo visible para el grupo **GRP_Administracion**
 ![alt text](capturas/parte1/mapeo2.png)
-
+**Unidad Y:** Solo visible para el grupo **GRP_Informatica**
 ![alt text](capturas/parte1/mapeo3.png)
 
 ![alt text](capturas/parte1/mapeo4.png)
-
+**Unidad X:** Visible para **todos los usuarios**
 ![alt text](capturas/parte1/mapeo5.png)
 
 ![alt text](capturas/parte1/mapeo6.png)

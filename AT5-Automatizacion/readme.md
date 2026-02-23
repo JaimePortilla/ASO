@@ -1,11 +1,3 @@
-# Administracion de Sistemas Operativos
-## Jaime Portilla Pérez
-
-## UT1-Scripts
-  * PoweShell
-  * Bash
-## UT2-Active_Directory
- Actividades dominio
  # Tarea de Automatización con GPOs - Windows Server
  **Alumno:** Jaime Portilla Pérez 
  **Iniciales:** JPP  
@@ -23,7 +15,7 @@
  Se ha creado la siguiente estructura en Active Directory:
  
  
- ![alt text](parte1/uos.png)
+![alt text](capturas/parte1/uos.png)
  
  **Grupos de seguridad creados:**
  - GRP_Administracion (con user_admin1 y user_admin2)
